@@ -1,0 +1,48 @@
+.primary-text {
+    color: #22B1C3;
+    font-size: 18px;
+}
+
+.text-upper {
+    text-transform: uppercase;
+}
+
+.text-lower {
+    text-transform: lowercase;
+}
+
+.primary-background {
+    background-color: #22B1C3;
+}
+
+.white-text {
+    color: white;
+}
+
+.body-background {
+    background-color: #fafafa;
+}
+
+.body-text {
+    color: #435C64;
+}
+
+.equal-height {
+    height: 100%;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.fw-600 {
+    font-weight: 600;
+}
+
+.fw-700 {
+    font-weight: 700;
+}
+
+.card-home {
+    border-radius: 10px;
+}

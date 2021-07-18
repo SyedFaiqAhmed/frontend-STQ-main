@@ -1,0 +1,6 @@
+<svg id="buttonShare" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Group_64" data-name="Group 64">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="34" height="34" rx="5" fill="#fff"/>
+  </g>
+  <path id="Icon_ionic-md-share" data-name="Icon ionic-md-share" d="M22.121,19.646a3.212,3.212,0,0,0-2.3.88L11.4,15.655a3.947,3.947,0,0,0,.118-.822,3.945,3.945,0,0,0-.118-.822L19.7,9.2a3.527,3.527,0,1,0-1.12-2.583,3.924,3.924,0,0,0,.118.822l-8.31,4.813a3.547,3.547,0,0,0-2.416-.939A3.489,3.489,0,0,0,4.5,14.833a3.548,3.548,0,0,0,5.952,2.583l8.369,4.872a2.944,2.944,0,0,0-.118.763,3.418,3.418,0,1,0,3.418-3.4Z" transform="translate(1.029 1.936)" fill="#22b1c3"/>
+</svg>

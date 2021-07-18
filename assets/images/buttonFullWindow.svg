@@ -1,0 +1,6 @@
+<svg id="buttonFullWindow" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="Group_172" data-name="Group 172">
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="34" height="34" rx="5" fill="#fff"/>
+    <path id="Icon_ionic-md-open" data-name="Icon ionic-md-open" d="M25.692,24.971H7.148V7.059h8.278V4.5H7.148A2.612,2.612,0,0,0,4.5,7.059V24.971a2.612,2.612,0,0,0,2.648,2.559H25.692a2.612,2.612,0,0,0,2.648-2.559v-8H25.692ZM18.407,4.5V7.059h5.431L10.46,19.981l1.854,1.791L25.692,8.85V14.1H28.34V4.5Z" transform="translate(0.58 0.985)" fill="#22b1c3"/>
+  </g>
+</svg>
